@@ -117,6 +117,6 @@
  I tried to combine the day and night images of the Eiffel Tower, where I had to crop the images and generate the mask myself.
 
 <div align="center">
-    <img src="/home/edison/UIUC/ECE549/cv-sp24-mps/MP3/blend/paris/tower.webp" width="60%">
+   ![moon](https://github.com/EdisonHuangtw/odin-recipes/assets/136220779/1bc0983e-1c82-4817-845f-4cfbe398552f)
     <img src="/home/edison/UIUC/ECE549/cv-sp24-mps/MP3/blend/paris/output.png" width="30%" style="margin:10px;">
 </div>
